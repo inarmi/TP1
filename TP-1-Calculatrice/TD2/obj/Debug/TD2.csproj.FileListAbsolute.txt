@@ -1,0 +1,9 @@
+X:\M11\TD\TD2\TD2\bin\TD2.dll.config
+X:\M11\TD\TD2\TD2\bin\TD2.dll
+X:\M11\TD\TD2\TD2\bin\TD2.pdb
+X:\M11\TD\TD2\TD2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+X:\M11\TD\TD2\TD2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+X:\M11\TD\TD2\TD2\obj\Debug\TD2.csprojResolveAssemblyReference.cache
+X:\M11\TD\TD2\TD2\obj\Debug\TD2.csproj.CoreCompileInputs.cache
+X:\M11\TD\TD2\TD2\obj\Debug\TD2.dll
+X:\M11\TD\TD2\TD2\obj\Debug\TD2.pdb
